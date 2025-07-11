@@ -1,4 +1,6 @@
-# 💫 About Me:
+### Namaste, I'm Yadav Rana
+
+## 💫 About Me:
 <ul>
   <li>I’m currently working on enhancing my skills in full-stack web development using the MERN stack.</li>
   <li>I’m looking to collaborate on real-world web development projects and open-source contributions.</li>
