@@ -4,7 +4,8 @@
   <li>I’m looking to collaborate on real-world web development projects and open-source contributions.</li>
   <li>I’m looking for help with system design fundamentals and backend optimization.</li>
   <li>I’m currently learning more about React, Node.js, and system design fundamentals.</li>
-  <li>Ask me about full-stack development, MERN projects, or building scalable apps.<br>Fun fact: I can work with any tech stack related to web and software development!</li>
+  <li>Ask me about full-stack development, MERN projects, or building scalable apps.</li>
+  <li>Fun fact: I can work with any tech stack related to web and software development!</li>
 <ul>
 
 
